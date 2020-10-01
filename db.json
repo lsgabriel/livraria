@@ -1,4 +1,23 @@
 {
-    "id": 1,
-    "titulo": "Hello"
+    "livros": [
+        {
+            "id":1,
+            "titulo": "Logica de programação",
+            "autor": "Paulo Silveira e Adriano Almeida",
+            "valor": 20
+        },
+        {
+            "id":2,
+            "titulo": "Codigo Limpo",
+            "autor": "Robert C. Martin",
+            "valor": 90
+        },
+        {
+            "id":3,
+            "titulo": "Arquitetura Limpa",
+            "autor": "Robert C. Martin",
+            "valor": 85
+        }
+
+    ]
 }
